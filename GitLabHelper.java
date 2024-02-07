@@ -8,6 +8,6 @@ public class GitLabHelper {
     }
 
     public void PrintWelcomeMessage(){
-        System.out.print("Git lab by:" + person1 + " and " + person2);
+        System.out.print("Git lab by:" + person1);
     }
 }
