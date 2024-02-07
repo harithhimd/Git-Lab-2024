@@ -9,5 +9,7 @@ public class GitLabHelper {
 
     public void PrintWelcomeMessage(){
         System.out.print("This is our lab");
+        System.out.print("This is my lab");
+        
     }
 }
